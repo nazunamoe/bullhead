@@ -15,7 +15,7 @@ DTBIMAGE="dtb"
 DEFCONFIG="phasma_defconfig"
 
 # Kernel Details
-VER=".R24.1.bullhead."
+VER=".R29.EAS.bullhead."
 
 # Paths
 KERNEL_DIR=`pwd`
